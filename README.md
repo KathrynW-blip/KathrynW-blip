@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kathryn Wemhoff and I'm a programmer, from Cedar Rapids, NE.</p>
+<p align="left">My name is Kaden Wemhoff and I'm a programmer, from Cedar Rapids, NE.</p>
 
 ###
 
